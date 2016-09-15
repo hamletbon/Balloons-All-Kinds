@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FancyBalloon()
+comment1.params=x\ y\ r\ c
+comment1.target=FancyBalloon(int,\ int,\ int,\ java.awt.Color)
+comment2.params=g\ makeItFilled
+comment2.target=void\ draw(java.awt.Graphics,\ boolean)
+comment2.text=\n\ Draws\ a\ solid\ circle\ if\ makeItFilled\ is\ true\ and\n\ outline\ only\ if\ makeItFilled\ is\ false\n\ @param\ g\ graphics\ context\n\ @param\ makeItFilled\ draws\ a\ solid\ circle\ if\ true\n
+numComments=3
